@@ -12,7 +12,7 @@
 #import <Foundation/Foundation.h>
 #import <AppKit/NSEvent.h>
 
-#define DEBOUNCE_DELAY 100
+#define DEBOUNCE_DELAY 50
 #define SYNTHETIC_KB_ID 666
 
 typedef CFMachPortRef EventTap;
